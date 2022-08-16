@@ -5,9 +5,11 @@ This repository will leave a zero-day XSS evaluated by me, to bypass the WAF Clo
 Simple payload detected by CloudFlare:
 
 ![image](https://user-images.githubusercontent.com/66162160/184783085-5935835f-9da7-4192-914e-9215c0260b0a.png)
+![image](https://user-images.githubusercontent.com/66162160/184783658-3dba58fa-30dd-4c19-9118-ec0dfed0be47.png)
+![Uploading image.png…]()
 
 
-Simple payload detected by CloudFlare:
+Script Bypass WAF CloudFlare:
 
 
 ```sh
